@@ -19,7 +19,7 @@ Noted : This source code is still BETA TEST and is still in the development stag
   npm i node-telegram-bot-api
   ```
 
-- installation of the Telegram Bot API library
+- Installation nodemon library installation to help fast development in nodeJS
 
   ```bash
   npm i nodemon -g
