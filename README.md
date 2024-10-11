@@ -5,7 +5,7 @@ Noted : This source code is still BETA TEST and is still in the development stag
 ## How to Use
 
 - [BMKG API JSON](https://data.bmkg.go.id/) to retrieve the latest earthquake JSON data api.
-- [BotFather](https://t.me/@BotFather) create a telegram bot and apikey bot which is used for bot connection with nodeJS.
+- [BotFather](https://t.me/@BotFather) create a telegram bot and token bot which is used for bot connection with nodeJS.
 - Clone This Repositories
   
   ```bash
